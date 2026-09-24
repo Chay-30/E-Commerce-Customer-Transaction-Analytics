@@ -107,3 +107,12 @@ The project analyzes customer behavior, transactions, products, revenue trends, 
 - Product and category analysis
 - Geographic revenue analysis
 - Data visualization
+
+## 🚀 Project Highlights
+
+- Analyzed 50,000+ e-commerce orders
+- Generated ₹213.33M in revenue insights
+- Built an interactive Power BI dashboard
+- Performed SQL-based business analysis
+- Used Python & Pandas for data analysis
+- Applied RFM-based customer segmentation
