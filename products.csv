@@ -1,0 +1,151 @@
+product_id,product_name,category,price
+P0001,Product_0001,Sports,5003.05
+P0002,Product_0002,Sports,2394.52
+P0003,Product_0003,Sports,576.39
+P0004,Product_0004,Electronics,421.26
+P0005,Product_0005,Books,1645.5
+P0006,Product_0006,Fashion,1499.51
+P0007,Product_0007,Sports,3375.53
+P0008,Product_0008,Electronics,2020.98
+P0009,Product_0009,Beauty,931.1
+P0010,Product_0010,Books,884.89
+P0011,Product_0011,Beauty,502.9
+P0012,Product_0012,Beauty,1475.9
+P0013,Product_0013,Fashion,467.16
+P0014,Product_0014,Electronics,2650.47
+P0015,Product_0015,Electronics,2083.63
+P0016,Product_0016,Beauty,2034.68
+P0017,Product_0017,Books,497.02
+P0018,Product_0018,Home & Kitchen,1196.94
+P0019,Product_0019,Beauty,1000.27
+P0020,Product_0020,Fashion,1446.79
+P0021,Product_0021,Beauty,1990.98
+P0022,Product_0022,Books,911.24
+P0023,Product_0023,Books,937.31
+P0024,Product_0024,Beauty,2230.42
+P0025,Product_0025,Electronics,574.14
+P0026,Product_0026,Beauty,765.1
+P0027,Product_0027,Sports,1345.31
+P0028,Product_0028,Sports,2630.13
+P0029,Product_0029,Home & Kitchen,647.69
+P0030,Product_0030,Fashion,5126.99
+P0031,Product_0031,Fashion,486.39
+P0032,Product_0032,Electronics,4284.29
+P0033,Product_0033,Fashion,3293.46
+P0034,Product_0034,Home & Kitchen,458.25
+P0035,Product_0035,Sports,393.8
+P0036,Product_0036,Electronics,2298.24
+P0037,Product_0037,Books,1009.24
+P0038,Product_0038,Sports,629.41
+P0039,Product_0039,Home & Kitchen,5212.3
+P0040,Product_0040,Electronics,547.07
+P0041,Product_0041,Beauty,776.5
+P0042,Product_0042,Fashion,848.7
+P0043,Product_0043,Home & Kitchen,164.09
+P0044,Product_0044,Electronics,1434.43
+P0045,Product_0045,Sports,676.09
+P0046,Product_0046,Electronics,2459.96
+P0047,Product_0047,Beauty,2713.37
+P0048,Product_0048,Home & Kitchen,1593.66
+P0049,Product_0049,Electronics,1607.26
+P0050,Product_0050,Books,1514.27
+P0051,Product_0051,Home & Kitchen,792.11
+P0052,Product_0052,Home & Kitchen,844.61
+P0053,Product_0053,Sports,3613.46
+P0054,Product_0054,Fashion,2324.9
+P0055,Product_0055,Books,1563.32
+P0056,Product_0056,Beauty,2100.75
+P0057,Product_0057,Electronics,1279.45
+P0058,Product_0058,Fashion,1538.73
+P0059,Product_0059,Sports,2092.02
+P0060,Product_0060,Fashion,282.67
+P0061,Product_0061,Home & Kitchen,2642.83
+P0062,Product_0062,Home & Kitchen,2504.28
+P0063,Product_0063,Beauty,745.82
+P0064,Product_0064,Books,3405.26
+P0065,Product_0065,Electronics,253.92
+P0066,Product_0066,Electronics,1745.36
+P0067,Product_0067,Sports,1380.15
+P0068,Product_0068,Beauty,1061.99
+P0069,Product_0069,Electronics,1359.03
+P0070,Product_0070,Books,2073.61
+P0071,Product_0071,Home & Kitchen,345.79
+P0072,Product_0072,Beauty,2837.63
+P0073,Product_0073,Fashion,984.66
+P0074,Product_0074,Beauty,2868.63
+P0075,Product_0075,Beauty,2170.34
+P0076,Product_0076,Books,969.42
+P0077,Product_0077,Books,1262.07
+P0078,Product_0078,Electronics,1318.92
+P0079,Product_0079,Sports,4468.0
+P0080,Product_0080,Sports,569.45
+P0081,Product_0081,Books,964.34
+P0082,Product_0082,Electronics,408.85
+P0083,Product_0083,Electronics,1469.87
+P0084,Product_0084,Electronics,839.13
+P0085,Product_0085,Books,919.08
+P0086,Product_0086,Sports,4078.64
+P0087,Product_0087,Electronics,722.32
+P0088,Product_0088,Books,1188.39
+P0089,Product_0089,Fashion,949.61
+P0090,Product_0090,Fashion,995.38
+P0091,Product_0091,Home & Kitchen,10709.03
+P0092,Product_0092,Fashion,364.59
+P0093,Product_0093,Beauty,2171.23
+P0094,Product_0094,Home & Kitchen,8271.16
+P0095,Product_0095,Fashion,3008.85
+P0096,Product_0096,Beauty,1387.43
+P0097,Product_0097,Fashion,555.81
+P0098,Product_0098,Books,3563.79
+P0099,Product_0099,Beauty,2705.41
+P0100,Product_0100,Electronics,425.27
+P0101,Product_0101,Books,1053.41
+P0102,Product_0102,Beauty,542.09
+P0103,Product_0103,Books,156.86
+P0104,Product_0104,Electronics,532.71
+P0105,Product_0105,Beauty,1449.65
+P0106,Product_0106,Beauty,2069.87
+P0107,Product_0107,Books,1050.92
+P0108,Product_0108,Fashion,3754.06
+P0109,Product_0109,Beauty,2898.88
+P0110,Product_0110,Fashion,1219.31
+P0111,Product_0111,Beauty,1108.26
+P0112,Product_0112,Sports,1784.79
+P0113,Product_0113,Home & Kitchen,1321.62
+P0114,Product_0114,Fashion,459.77
+P0115,Product_0115,Fashion,1073.27
+P0116,Product_0116,Electronics,2206.53
+P0117,Product_0117,Sports,3590.53
+P0118,Product_0118,Electronics,2752.11
+P0119,Product_0119,Sports,1721.11
+P0120,Product_0120,Sports,3995.92
+P0121,Product_0121,Books,1840.82
+P0122,Product_0122,Books,1253.37
+P0123,Product_0123,Books,4060.39
+P0124,Product_0124,Beauty,2298.92
+P0125,Product_0125,Electronics,3556.39
+P0126,Product_0126,Home & Kitchen,549.66
+P0127,Product_0127,Sports,702.61
+P0128,Product_0128,Sports,725.56
+P0129,Product_0129,Fashion,1535.07
+P0130,Product_0130,Beauty,5261.98
+P0131,Product_0131,Home & Kitchen,570.09
+P0132,Product_0132,Books,2641.29
+P0133,Product_0133,Sports,543.52
+P0134,Product_0134,Fashion,6556.02
+P0135,Product_0135,Electronics,404.44
+P0136,Product_0136,Sports,2333.73
+P0137,Product_0137,Fashion,2592.25
+P0138,Product_0138,Electronics,2132.4
+P0139,Product_0139,Beauty,693.72
+P0140,Product_0140,Books,606.52
+P0141,Product_0141,Electronics,3478.31
+P0142,Product_0142,Sports,2940.41
+P0143,Product_0143,Home & Kitchen,2910.47
+P0144,Product_0144,Electronics,3187.46
+P0145,Product_0145,Home & Kitchen,423.24
+P0146,Product_0146,Home & Kitchen,413.86
+P0147,Product_0147,Electronics,809.57
+P0148,Product_0148,Beauty,934.74
+P0149,Product_0149,Electronics,862.94
+P0150,Product_0150,Fashion,1649.33
